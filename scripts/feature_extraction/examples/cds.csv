@@ -1,0 +1,4 @@
+plasmid_accession,gene,product
+EXAMPLE.1,tnpA,DDE-type transposase
+EXAMPLE.1,traI,conjugative transfer relaxase
+EXAMPLE.1,foo,hypothetical protein

@@ -1,0 +1,4 @@
+plasmid_accession,model_score,decision_threshold,predicted_label
+NZ_PQ126463.1,1.7104570726784898e-05,0.306,0
+NZ_PQ122004.1,0.9998178894489286,0.306,1
+NZ_CP170877.1,0.06599930732375774,0.306,0

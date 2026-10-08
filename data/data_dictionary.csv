@@ -1,0 +1,6 @@
+field,role,definition
+plasmid_accession,identifier,accession.version identifier
+cross_genus_transfer,outcome,operational database-observed cross-genus occurrence label
+AAAA--TTTT,candidate predictors,256 forward-strand 4-mer frequencies
+fold,validation assignment,frozen outer fold number (1--5)
+mash_component,validation group,connected component at the stated Mash threshold

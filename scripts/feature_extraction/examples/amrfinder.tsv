@@ -1,0 +1,4 @@
+plasmid_accession	plasmid_length	Type	Class	Subclass	Element name
+EXAMPLE.1	100000	AMR	BETA-LACTAM	CARBAPENEM	metallo-beta-lactamase
+EXAMPLE.1	100000	AMR	BETA-LACTAM	CEPHALOSPORIN	extended-spectrum class A beta-lactamase
+EXAMPLE.1	100000	STRESS	METAL	CADMIUM	cadmium resistance protein
